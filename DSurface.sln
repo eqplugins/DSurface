@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DSurface", "DSurface\DSurface.vcproj", "{A3B6C3DE-5420-473D-A25A-BFA6D2DEAB73}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectEQ", "DSurfaceInjector\DSurfaceInjector.vcproj", "{F8E51521-8EDF-474A-A1AE-64AF0D3A7CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B6C3DE-5420-473D-A25A-BFA6D2DEAB73}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3B6C3DE-5420-473D-A25A-BFA6D2DEAB73}.Debug|Win32.Build.0 = Debug|Win32
+		{A3B6C3DE-5420-473D-A25A-BFA6D2DEAB73}.Release|Win32.ActiveCfg = Release|Win32
+		{A3B6C3DE-5420-473D-A25A-BFA6D2DEAB73}.Release|Win32.Build.0 = Release|Win32
+		{F8E51521-8EDF-474A-A1AE-64AF0D3A7CD0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8E51521-8EDF-474A-A1AE-64AF0D3A7CD0}.Debug|Win32.Build.0 = Debug|Win32
+		{F8E51521-8EDF-474A-A1AE-64AF0D3A7CD0}.Release|Win32.ActiveCfg = Release|Win32
+		{F8E51521-8EDF-474A-A1AE-64AF0D3A7CD0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
